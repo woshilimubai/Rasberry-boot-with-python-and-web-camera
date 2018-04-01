@@ -1,0 +1,11 @@
+[Desktop Entry]
+name=example
+Comment=My Python Program
+Exec=python3 /home/pi/pistreaming/start.py
+Icon=/home/pi/example.png
+Terminal=true
+MultipleArgs=false
+Type=Application
+Categories=Application;Development;
+StartupNotify=true
+X-KeepTerminal=true
