@@ -4,6 +4,7 @@
 > `/home/pi/.config/autostart`文件夹下面
 > * `pistreaming.desktop`
 > * `shutdown.desktop`
+
 > `/home/pi`文件夹下面
 > * `shutdown.py`
 > 还包括`/home/pi`文件夹下面
