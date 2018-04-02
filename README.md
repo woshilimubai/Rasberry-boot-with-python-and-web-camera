@@ -10,3 +10,6 @@
 > 还包括`/home/pi`文件夹下面
 > * `pistream`文件夹
 > `pistream`的来源[Github链接](https://github.com/waveform80/pistreaming)
+
+> `/home/pi/pistream`文件夹中建立文件`start.py`
+> * `start.py`
